@@ -1,0 +1,29 @@
+_repo: Ruth-Fielding-and-the-Gypsies--13-Or-The-Missing-Pearl-Necklace_22743
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hostages -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Romanies -- Juvenile fiction'
+title: Ruth Fielding and the Gypsies; Or, The Missing Pearl Necklace
+url: http://www.gutenberg.org/ebooks/22743
